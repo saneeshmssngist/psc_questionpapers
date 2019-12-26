@@ -3,17 +3,17 @@
 "code" :"100",
 "data":{"recent_question_papers":[{"id":"1",
 "name" : "VEO",
-"data" : "26/10/2019",
+"date" : "26/10/2019",
 "questionUrl" : "dsad",
 "answerUrl" : "fdafds"
 },{"id" : "1",
 "name" : "VEO",
-"data" : "12/10/2019",
+"date" : "12/10/2019",
 "questionUrl" : "dsad",
 "answerUrl" : "fdafds"
 },{"id" : "1",
 "name" : "ASSISTANT UNIVERSITY",
-"data" : "15-06-2019",
+"date" : "15-06-2019",
 "questionUrl" : "dsad",
 "answerUrl" : "fdafds"
 }]}}
