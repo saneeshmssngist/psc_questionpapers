@@ -24,7 +24,7 @@
 "answerUrl" : ""
 },
 {"id" : "5",
-"name" : "VEO [TV,KZ]",
+"name" : "VEO  [TV,KZ]",
 "date" : "12-10-2019",
 "questionUrl" : "1bwtP7k2XlzkMvrLlSwgB9SpW7JeWepFY",
 "answerUrl" : ""
