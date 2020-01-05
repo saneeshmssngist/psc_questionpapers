@@ -5,31 +5,32 @@
 "name" : "VEO [ WA,PL,ER ]",
 "date" : "14/12/2019",
 "questionUrl" : "1GtCb4zg1Dt4i2h9n9j1UnmlR7zyGgjns",
-"answerUrl" : "['A','B','A','A','B','D','C','C','B','B','C','D','A','D','B','C','A','D','D','C','B','D','B','A','A','B','C','B','D','C','B','B','D','A','B','D','D','C','D','A','B','A','D','A','C','C','D','A','B','A','D','C','A','B','C','A','C','C','D','A','C','D','A','B','A','C','B','A','D','A','B','C','B','C','D','B','D','A','A','C','A','D','B','C','A','D','B','C','A','D','B','B','D','C','A','B','A','C','A','D']"
+"answerArray" : ["A","B","A","A","B","D","C","C","B","B","C","D","A","D","B","C","A","D","D","C","B","D","B","A","A","B","C","B","D","C","B","B","D","A","B","D","D","C","D","A","B","A","D","A","C","C","D","A","B","A","D","C","A","B","C","A","C","C","D","A","C","D","A","B","A","C","B","A","D","A","B","C","B","C","D","B","D","A","A","C","A","D","B","C","A","D","B","C","A","D","B","B","D","C","A","B","A","C","A","D"],
+"answerUrl" : ""
 },{"id" : "2",
 "name" : "VEO [PT,MA,KS]",
 "date" : "30/11/2019",
-"answerArray" : [],
 "questionUrl" : "1adoTj7yxIDc-wSKIeM8XhvY0XLx2N-V5",
-"answerUrl" : ""
+"answerUrl" : "",
+"answerArray" : []
 },{"id" : "3",
 "name" : "VEO [AL,KT,TS]",
 "date" : "23-11-2019",
-"answerArray" : [],
 "questionUrl" : "13fWPRbd6XJY_p5kmSAZqLgs_-o9tBgTb",
-"answerUrl" : ""
+"answerUrl" : "",
+"answerArray" : []
 },
 {"id" : "4",
 "name" : "VEO [KL,ID,KN]",
 "date" : "26-10-2019",
-"answerArray" : [],
 "questionUrl" : "1nJPK7Ed-JRKzJiBVPiViMLy-oXU2wUsq",
-"answerUrl" : ""
+"answerUrl" : "",
+"answerArray" : []
 },
 {"id" : "5",
 "name" : "VEO  [TV,KZ]",
 "date" : "12-10-2019",
-"answerArray" : [],
 "questionUrl" : "1bwtP7k2XlzkMvrLlSwgB9SpW7JeWepFY",
-"answerUrl" : ""
+"answerUrl" : "",
+"answerArray" : []
 }]}}
