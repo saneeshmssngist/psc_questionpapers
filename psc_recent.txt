@@ -18,14 +18,14 @@
 "date" : "23-11-2019",
 "questionUrl" : "13fWPRbd6XJY_p5kmSAZqLgs_-o9tBgTb",
 "answerUrl" : "",
-"answerArray" : []
+"answerArray" : ["B","D","B","A","C","C","A","D","B","D","C","A","B","A","D","C","A","D","C","B","C","B","C","B","B","C","C","B","B","B","C","B","A","B","A","B","D","B","A","B","D","B","A","D","D","A","D","C","A","B","C","B","A","B","D","C","C","B","C","A","A","B","D","A","C","D","B","A","B","A","A","C","D","B","C","A","B","D","D","B","C","A","B","A","C","D","D","B","A","C","C","A","B","D","A","D","C","D","C","D"]
 },
 {"id" : "4",
 "name" : "VEO [KL,ID,KN]",
 "date" : "26-10-2019",
 "questionUrl" : "1nJPK7Ed-JRKzJiBVPiViMLy-oXU2wUsq",
 "answerUrl" : "",
-"answerArray" : []
+"answerArray" : ["A","C","D","B","D","B","A","D","B","A","D","C","A","B","C","D","B","C","A","A","A","C","B","D","B","D","A","A","B","C","A","D","C","A","C","D","A","C","D","C","A","B","C","D","A","D","A","B","C","D","A","A","B","A","C","D","D","B","B","D","C","A","B","C","B","A","D","B","C","","A","D","B","C","A","C","D","C","D","A","B","B","D","D","C","A","B","C","A","C","B","D","C","D","B","A","D","A","B","C"]
 },
 {"id" : "5",
 "name" : "VEO  [TV,KZ]",
