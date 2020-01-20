@@ -32,5 +32,5 @@
 "date" : "12-10-2019",
 "questionUrl" : "1bwtP7k2XlzkMvrLlSwgB9SpW7JeWepFY",
 "answerUrl" : "",
-"answerArray" : []
+"answerArray" : ["C","B","A","B","D","A","C","A","B","D","B","C","A","B","D","B","C","B","A","D","X","A","X","C","D","B","X","C","A","D","A","B","D","C","A","C","C","B","C","A","B","D","B","X","A","C","X","C","A","B","A","C","B","C","A","C","A","B","D","C","B","B","A","D","A","C","B","A","B","C","C","D","B","A","X","C","D","C","D","B","A","A","B","B","D","A","C","D","A","D","D","C","C","B","D","X","A","A","B","A"]
 }]}}
