@@ -43,21 +43,24 @@
 "date" : "05/10/2019",
 "questionUrl" : "1qG9aSMdHuj7VGiyfTgKnIvN_fOuxEbYr",
 "answerUrl" : "",
-"answerArray" : []
+"answerArray" : ["C","A","B","C","A","C","B","D","B","C","A","C","A","C","D","A","C","A","A","C","A","A","D","A","B","C","D","A","B","C","D","A","B","C","D","A","B","C","D","A","B","C","C","A","B","A","D","C","B","D","A","D","D","B","A","C","A","B","C","D","B","D","B","C","A","B","D","C","A","C","A","X","B","C","A","B","A","D","A","C","B","D","C","D","D","C","C","A","B","B","A","D","D","B","B","D","D","B","A","A","C","C"]
 },{"id" : "8",
 "name" : "Kerala PSC Staff Nurse Grade 2  Nurse Grade 2 ( Homeo ) Exam",
 "date" : "28/09/2019",
 "questionUrl" : "18tcGiV3LoYxGEm7IAdzoE6Mw2GxVtmLX",
-"answerUrl" : ""
+"answerUrl" : "",
+"answerArray" :[]
 },{"id" : "6",
 "name" : "Kerala PSC Deputy Collector SR from SC ST Exam",
 "date" : "26/09/2019",
 "questionUrl" : "1eExBmG0ep0QlvomzlKw6wp09m78JNr82",
-"answerUrl" : ""
+"answerUrl" : "",
+"answerArray" :[]
 },{"id":"7",
 "name" : "Drive Cum office Attendant Police Driver",
 "date" : "02/08/2019",
 "questionUrl" : "1Vqly3U9xktE0bnG2CdFMVLc9ZDQaRjnQ",
-"answerUrl" : ""
+"answerUrl" : "",
+"answerArray" :[]
 }
 ]}}
