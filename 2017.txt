@@ -12,7 +12,7 @@
 "date" : "05-08-2017",
 "questionUrl" : "1ci8nvYp7K-Jqmbeb1vTAFqmDN236dkD_",
 "answerUrl" : "",
-"answerArray" : []
+"answerArray" : ["C","C","C","C","","","A","C","B","C","B","C","","A","C","A","C","B","C","B","D","C","D","A","A","A","C","A","B","C","B","C","D","","D","A","A","D","A","C","D","A","B","C","B","A","D","A","C","B","D","C","B","A","D","C","A","B","A","D","C","A","B","D","C","C","D","B","A","B","B","C","D","B","C","A","C","A","B","A","A","A","B","C","B","C","D","B","D","D","D","D","C","D","B","C","D","D","D","B","A"]
 },{"id" : "3",
 "name" : "Kerala PSC LDC Exam 2017 - Thiruvananthapuram, Malappuram",
 "date" : "17-06-2017",
