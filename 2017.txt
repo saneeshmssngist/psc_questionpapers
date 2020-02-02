@@ -5,34 +5,40 @@
 "name" : "Kerala PSC LDC Exam 2017 - Alappuzha, Idukki, Kozhikode",
 "date" : "29-07-2017",
 "questionUrl" : "16bEzsqFM3LBFOCPro7aVc2EDNkcUb4SB",
-"answerUrl" : ""
+"answerUrl" : "",
+"answerArray" : []
 },{"id" : "2",
 "name" : "Kerala PSC LDC Exam 2017 - Pathanamthitta, Palakkad",
 "date" : "05-08-2017",
 "questionUrl" : "1ci8nvYp7K-Jqmbeb1vTAFqmDN236dkD_",
-"answerUrl" : ""
+"answerUrl" : "",
+"answerArray" : []
 },{"id" : "3",
 "name" : "Kerala PSC LDC Exam 2017 - Thiruvananthapuram, Malappuram",
 "date" : "17-06-2017",
 "questionUrl" : "1kQ6fKydyWUIf2jvweMD8bSOv4ccSGceV",
-"answerUrl" : ""
+"answerUrl" : "",
+"answerArray" : []
 },
 {"id" : "4",
 "name" : "Kerala PSC LDC Exam 2017 - Kollam, Kasaragod, Thrissur",
 "date" : "01-07-2017",
 "questionUrl" : "1V8pV0RfH6UUzR-D-AuwEB4cKEPjHAJls",
-"answerUrl" : ""
+"answerUrl" : "",
+"answerArray" : []
 },
 {"id" : "5",
 "name" : "Kerala PSC LDC Exam 2017 - Wayanad, Kottayam",
 "date" : "26-08-2019 ",
 "questionUrl" : "1eDOfHKqxTcLRr3_VXC83mA4xVvBWn1bT",
-"answerUrl" : ""
+"answerUrl" : "",
+"answerArray" : []
 },
 {"id" : "6",
 "name" : "Kerala PSC LDC Exam 2017 - Ernakulam, Kannur",
 "date" : "15-07-2017",
 "questionUrl" : "1PCPGkaViSGWKBRSTklHkKXNXcQwOBLyJ",
-"answerUrl" : ""
+"answerUrl" : "",
+"answerArray" : []
 }
 ]}}
