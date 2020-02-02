@@ -6,31 +6,31 @@
 "date" : "06/07/2018",
 "questionUrl" : "1A5UbhOsM7-XPujmmgEKBcwUx9sQf68SM",
 "answerUrl" : "",
-"answerArray" : "[]"
+"answerArray" : []
 },{"id" : "2",
 "name" : "Peon_watchman_ayah_warder_attender",
 "date" : "19/05/2018",
 "questionUrl" : "19bch10GZUJ3KfsRAlStqtKXJ4p4CFLqa",
 "answerUrl" : "",
-"answerArray" : "[]"
+"answerArray" : []
 },{"id" : "3",
 "name" : "Reserve Driver",
 "date" : "06/08/2018",
 "questionUrl" : "1iqdlEjrpryiLsyC_QD36MV2eQo8O4xfd",
 "answerUrl" : "",
-"answerArray" : "[]"
+"answerArray" : []
 },
 {"id" : "4",
 "name" : "Secretariat Assistant",
 "date" : " 13/10/2018",
 "questionUrl" : "1BlZBzuI6_sLeul7L8OQ8YLkq2lOttpDQ",
 "answerUrl" : "",
-"answerArray" : "[]"
+"answerArray" : []
 },
 {"id" : "5",
 "name" : "Women Civil Excise",
 "date" : "24/02/2018",
 "questionUrl" : "1aDJvOONeojoBjLM8x7tYq0LCcAqaQt3n",
 "answerUrl" : "",
-"answerArray" : "[]"
+"answerArray" : []
 }]}}
