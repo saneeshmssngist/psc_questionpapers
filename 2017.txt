@@ -25,7 +25,7 @@
 "date" : "01-07-2017",
 "questionUrl" : "1V8pV0RfH6UUzR-D-AuwEB4cKEPjHAJls",
 "answerUrl" : "",
-"answerArray" : []
+"answerArray" : ["A","B","C","B","A","A","B","A","B","C","D","B","","D","C","D","B","D","D","C","C","B","A","C","D","D","B","C","A","D","C","A","B","A","D","D","C","D","C","A","B","B","C","C","A","B","A","C","B","D","A","A","C","B","A","B","D","A","C","D","C","B","A","D","D","D","B","C","B","A","D","C","B","D","B","A","A","C","D","A","D","D","D","A","B","C","C","D","B","C","D","D","B","A","A","B","B","C","A","A","C"]
 },
 {"id" : "5",
 "name" : "Kerala PSC LDC Exam 2017 - Wayanad, Kottayam",
