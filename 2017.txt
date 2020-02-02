@@ -6,7 +6,7 @@
 "date" : "29-07-2017",
 "questionUrl" : "16bEzsqFM3LBFOCPro7aVc2EDNkcUb4SB",
 "answerUrl" : "",
-"answerArray" : []
+"answerArray" : ["B","C","B","D","A","D","C","B","D","A","B","C","D","A","D","B","C","A","B","D","B","A","C","D","B","B","B","D","D","C","B","A","D","B","C","A","D","C","B","D","","B","C","D","A","B","C","D","A","B","C","B","A","B","D","B","A","A","D","C","A","B","D","C","D","B","C","D","C","A","B","A","D","B","C","A","A","B","C","B","D","","","D","B","B","D","C","C","C","B","D","A","B","C","A","B","B","C","A"]
 },{"id" : "2",
 "name" : "Kerala PSC LDC Exam 2017 - Pathanamthitta, Palakkad",
 "date" : "05-08-2017",
