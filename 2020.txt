@@ -6,5 +6,6 @@
 "date" : "10/01/2020",
 "questionUrl" : "1ERcGLtwJ4AcsiZq3ZKsBfIaVhiJVgPIG",
 "answerUrl" : "",
-"answerArray" : []}
-}
+"answerArray" : []
+}]
+}}
