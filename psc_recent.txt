@@ -6,7 +6,8 @@
 "date" : "10/01/2020",
 "questionUrl" : "1ERcGLtwJ4AcsiZq3ZKsBfIaVhiJVgPIG",
 "answerUrl" : "",
-"answerArray" : []
+"answerArray" : ["C","B","C","D","A","B","A","D","B","C","D","B","A","C","D","A","C","D","B","A","C","B","D","B","C","A","D","C","B","D","C","B","C","D","B","C","D","B","A","C","B","A","D","C","B","A","D","C","B","D","B","C","D","A","B","C","A","B","B","A","A","A","C","B","D","D","B","D","B","A","C","A","C","D","A","D","A","C","B","D","D","A","C","B","C","A","C","D","B","C","D","B","A","C","B","A","C","D","B","D"]
+}]
 },{"id":"91",
 "name" : "VEO [ WA,PL,ER ]",
 "date" : "14/12/2019",
