@@ -40,5 +40,20 @@
 "questionUrl" : "1PCPGkaViSGWKBRSTklHkKXNXcQwOBLyJ",
 "answerUrl" : "",
 "answerArray" : ["C","C","B","C","C","D","D","A","A","A","C","B","D","D","A","C","B","B","D","C","A","B","A","D","B","C","A","B","B","D","A","D","C","C","A","D","A","B","C","B","D","B","C","C","B","D","A","C","C","A","C","D","A","C","A","B","B","B","C","B","C","","A","B","","B","","D","B","A","C","C","A","A","D","D","A","B","C","D","A","A","B","A","A","B","A","D","B","B","","B","D","B","D","A","B","C","A","C"]
+},
+{
+"id":"77",
+"name":"Kerala PSC Last Grade Servants (LGS) Company Board Corporation Phase 1 - TVM, PT, KT, ER, PL, KZ",
+"date":"07-10-2017",
+"questionUrl":"14lBowfMRfwFeFh-EQCBzbNZFfWSEP59I",
+"answerUrl":"",
+"answerArray":[]
+},{
+"id":"78",
+"name":"Kerala PSC Last Grade Servants (LGS) Company Board Corporation. Phase 2 - KL, AL, ID, TV, MA, WA, KN, KS",
+"date":"28-10-2017",
+"questionUrl":"1-OtFOF6ormqpp5oEqexFoRRUt2tHZa0A",
+"answerUrl":"",
+"answerArray":[]
 }
 ]}}
